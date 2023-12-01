@@ -1,0 +1,9 @@
+{
+  "name": "whatsapp-webhook",
+  "version": "1.0.0",
+  "description": "An example webhook for WhatsApp Cloud API",
+  "main": "main.js",
+  "author": "Andres Wagner",
+  "dependencies": {
+  }
+}
