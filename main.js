@@ -2,7 +2,7 @@ function main(params) {
 const axios = require('axios').default;
       axios({
 	      method: "POST", // Required, HTTP method, a string, e.g. POST, GET
-	      url: "http://52.117.223.57:1880/webhook",
+	      url: "http://169.62.166.148:1880/webhook",
 	      data: {"hola": "mundo"},
 	      headers: {"Content-Type": "application/json"}
       });
